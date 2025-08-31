@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+ADO9sWnqIxw1ZDhl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/moviemagic_24')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'adityahelp24_bot') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/aditya2463')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/Movie_Help24_Bot')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
